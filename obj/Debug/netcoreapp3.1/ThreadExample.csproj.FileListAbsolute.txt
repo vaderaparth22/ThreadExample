@@ -1,0 +1,11 @@
+D:\Class Stuff\ISI\2D-3D Tools\MultiThreadProject\ThreadExample\bin\Debug\netcoreapp3.1\ThreadExample.exe
+D:\Class Stuff\ISI\2D-3D Tools\MultiThreadProject\ThreadExample\bin\Debug\netcoreapp3.1\ThreadExample.deps.json
+D:\Class Stuff\ISI\2D-3D Tools\MultiThreadProject\ThreadExample\bin\Debug\netcoreapp3.1\ThreadExample.runtimeconfig.json
+D:\Class Stuff\ISI\2D-3D Tools\MultiThreadProject\ThreadExample\bin\Debug\netcoreapp3.1\ThreadExample.runtimeconfig.dev.json
+D:\Class Stuff\ISI\2D-3D Tools\MultiThreadProject\ThreadExample\bin\Debug\netcoreapp3.1\ThreadExample.dll
+D:\Class Stuff\ISI\2D-3D Tools\MultiThreadProject\ThreadExample\bin\Debug\netcoreapp3.1\ThreadExample.pdb
+D:\Class Stuff\ISI\2D-3D Tools\MultiThreadProject\ThreadExample\obj\Debug\netcoreapp3.1\ThreadExample.csprojAssemblyReference.cache
+D:\Class Stuff\ISI\2D-3D Tools\MultiThreadProject\ThreadExample\obj\Debug\netcoreapp3.1\ThreadExample.AssemblyInfoInputs.cache
+D:\Class Stuff\ISI\2D-3D Tools\MultiThreadProject\ThreadExample\obj\Debug\netcoreapp3.1\ThreadExample.AssemblyInfo.cs
+D:\Class Stuff\ISI\2D-3D Tools\MultiThreadProject\ThreadExample\obj\Debug\netcoreapp3.1\ThreadExample.dll
+D:\Class Stuff\ISI\2D-3D Tools\MultiThreadProject\ThreadExample\obj\Debug\netcoreapp3.1\ThreadExample.pdb
